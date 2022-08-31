@@ -23,7 +23,7 @@ public class Main {
 
         //Second Book()
 
-        Author authorBook2 = new Author("Viktor", "Hugo");
+        Author authorBook2 = new Author("Viktor", " " + "Hugo");
         Book book2 = new Book("Outcast", 1862, author);
 
 
